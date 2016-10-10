@@ -1,0 +1,13 @@
+SHELL=/bin/sh
+PATH=/home/mint/anaconda3/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:$
+
+python /home/mint/Documents/WP1/Code/careerjet.py
+
+python /home/mint/Documents/WP1/Code/guardian.py
+
+python /home/mint/Documents/WP1/Code/Reed.py
+
+python /home/mint/Documents/WP1/Code/Universal.py
+
+python /home/mint/Documents/WP1/Code/Telegraph.py
+
